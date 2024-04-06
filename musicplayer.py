@@ -21,7 +21,7 @@ def main():
         if user_input == "p":
             play_playlist()
         elif user_input == "q":
-            break
+            pass
         else:
             print("Invalid command. Press 'p' to play or 'q' to quit.")
 
